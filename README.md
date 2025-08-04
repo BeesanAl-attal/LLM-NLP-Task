@@ -19,6 +19,6 @@
 + **General Notes**
   1. When you run the training loop block of code, you might get different resutls since i did not fix a seed
   2. For each trained model there is a model weights file that you can use it to load the model later and use it to predicte
-    
+  3. The files are all the python code are notebooks in the .ipynb to show the training epochs smoothly
     
   
